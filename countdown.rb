@@ -4,3 +4,4 @@ puts "#{number} SECOND(S)!"
 x -= 1
 def countdown
 end
+end
